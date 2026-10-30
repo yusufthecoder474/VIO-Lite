@@ -1,0 +1,9 @@
+build*/
+output*/
+datasets/
+__pycache__/
+*.pyc
+.env
+.venv/
+__pycache__/
+*.log

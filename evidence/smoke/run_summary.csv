@@ -1,0 +1,2 @@
+processed_frames,valid_tracking_frames,failed_tracking_frames,valid_scale_windows,elapsed_seconds,fps,initialization_status,metric_status,global_scale,relative_scale_mad,initialization_frames_skipped
+21,20,0,0,0.369006734,54.199552900300191,stationary_assumption_accepted,insufficient_scale_windows,,0,10

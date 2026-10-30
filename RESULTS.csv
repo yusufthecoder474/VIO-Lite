@@ -1,0 +1,3 @@
+run,status,processed_frames,valid_tracking_frames,failed_tracking_frames,valid_scale_windows,elapsed_seconds,fps,metric_status,metric_ate_rmse_m,ctest_passed,python_tests_passed,notes
+synthetic_smoke,TESTED_AND_PASSED,21,20,0,0,0.369006734,54.199552900300191,insufficient_scale_windows,,12,8,Synthetic fixture only; no recorded-sensor accuracy or recovered-scale claim
+EuRoC_MH_01_easy,NOT_EXECUTED,,,,,,,UNVERIFIED,,,,Dataset unavailable; legacy download HTTP 503 and collection DOI inaccessible

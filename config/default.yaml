@@ -1,0 +1,10 @@
+# SI units: seconds, metres, radians. Biases are in the EuRoC body/IMU frame.
+init_seconds: 0.5
+max_imu_gap: 0.02
+min_parallax: 1.0
+window: 20
+min_matches: 20
+max_scale_residual: 0.35
+min_excitation: 0.02
+gyro_bias: [0.0, 0.0, 0.0]
+accel_bias: [0.0, 0.0, 0.0]

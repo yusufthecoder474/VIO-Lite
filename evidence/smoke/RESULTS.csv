@@ -1,0 +1,2 @@
+processed_frames,valid_tracking_frames,failed_tracking_frames,valid_scale_windows,elapsed_seconds,fps,initialization_status,metric_status,global_scale,relative_scale_mad,initialization_frames_skipped,dataset,metric_evaluation_status,metric_ate_rmse_m,associated_poses,sim3_shape_rmse_m,sim3_fitted_scale,sim3_status
+21,20,0,0,0.369006734,54.199552900300191,stationary_assumption_accepted,insufficient_scale_windows,,0,10,not supplied,unavailable,,0,,,not_requested
